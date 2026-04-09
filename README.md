@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mayra Dias
 
 💻 Front-end learner focused on building clean and conversion-driven interfaces  
-🚀 Currently improving my skills in HTML & CSS    
+🚀 Currently Practicing my skills in HTML & CSS    
 
 ---
 
@@ -32,20 +32,20 @@ Here are some of my learning projects:
 ### 📚 Currently Learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](YOUR_LINK_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](YOUR_LINK_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome)](YOUR_LINK_HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)]([YOUR_LINK_HERE](https://www.instagram.com/devbymayra?igsh=MXI3YXB4ZWRiaXJ3aQ%3D%3D&utm_source=qr))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)]([YOUR_LINK_HERE](https://www.linkedin.com/in/mayra-dias-9135952b0/))
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+[![Mayra's GitHub stats](https://github-readme-stats.vercel.app/api?mayravitoriadias-hash)](https://github.com/mayravitoriadias-hash/github-readme-stats)
 
 ---
 
