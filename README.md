@@ -45,7 +45,7 @@ Here are some of my learning projects:
 
 ## 📊 GitHub Stats
 
-[![Mayra's GitHub stats](https://github-readme-stats.vercel.app/api?mayravitoriadias-hash)](https://github.com/mayravitoriadias-hash/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayravitoriadias-hash&show_icons=true&theme=transparent&title_color=000&text_color=000&icon_color=000)
 
 ---
 
