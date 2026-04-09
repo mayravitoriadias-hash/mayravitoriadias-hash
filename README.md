@@ -1,27 +1,55 @@
-## Bem-vindo(a) ao perfil do Da Mayra 😁
+# Hi there 👋, I'm Mayra Dias
 
- <div>
-   <a href="https://github.com/mayravitoriadias-hash">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayravitoriadias-hash
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayravitoriadias-hash
-&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Minhas Redes
- 
-<div> 
+💻 Front-end learner focused on building clean and conversion-driven interfaces  
+🚀 Currently improving my skills in HTML & CSS    
 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
+
+## 🧠 About Me
+
+- 🌱 I’m currently learning: **HTML, CSS, and starting JavaScript and React**
+- 🛠️ I’m building: simple projects to improve structure, layout, and UI
+- 🎯 Goal: become a high-level web developer focused on performance and conversion
+- 📍 Based in: Brazil
+
+---
+
+## 🚀 Projects
+
+Here are some of my learning projects:
+
+- 📄 Simple Form Page (HTML & CSS)
+- 🎯 Apple Hero Slider (Landing Page Section)
+- 💡 More projects coming soon...
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+### 📚 Currently Learning
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+---
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](YOUR_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](YOUR_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome)](YOUR_LINK_HERE)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 💡 Note
+
+This GitHub profile is part of my learning journey.  
+I’m constantly improving my skills and building projects to get better every day.
