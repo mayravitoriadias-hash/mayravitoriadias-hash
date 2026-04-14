@@ -43,12 +43,6 @@ Here are some of my learning projects:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayravitoriadias-hash&show_icons=true&theme=transparent&title_color=000&text_color=000&icon_color=000)
-
----
-
 ## 💡 Note
 
 This GitHub profile is part of my learning journey.  
